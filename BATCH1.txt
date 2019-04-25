@@ -1,0 +1,25 @@
+000001,A,ROBIN,HOOD,Art,,French,,math
+000002,A,DONALD,DUCK,English,,MATH,,Music
+000003,A,JACK,SPRAT,Compsci,,history,,French
+000004,A,LIL,BOPEEP,Art,,French,,english
+000005,d,MARY,CONTRARY,Music,,compsci,,math
+000006,A,SLEEPING,BEAUTY, Art,,history,,music
+000007,A,SNOW,WHITE, Compsci,,math,,music
+000008,A,JACK,HORNER, Art,,French,english 
+000009,A,KING,COLE,Art,,French,,enlish
+000010,A,BUGS,BUNNY,Art,,French,,math
+000011,A,DAFFY,DUCK, English,,MATH,,Music
+000012,A,SLIMEY,SAM, Compsci,,history,,French
+000013,A,HAIRY,LARRY, Art,,French,,english
+000014,A,MAN, Music,,compsci,,math
+000015,A,SUPER,MAN, Art,,history,,music
+000016,A,ALI,BABA, Compsci,,math,,music
+000017,x,WONDER,WOMAN, Compsci,,math,,music
+000018,A,EASTER,BUNNY,Art,,French,,math
+000019,A,SANTA,CLAWS, English,,MATH,,Music
+000020,A,JACK,RABBIT, Compsci,,history,,French
+000021,A,,GOOSE, Art,,French,,english
+000022,A,SLIPPERY,SLOPE, Music,compsci,math
+000023,A,JACKIE,CHAN, Art,,history,,music
+000024,A,MINNIE,MOUSE, Compsci,,math,,music
+000025,A,ANNA,BANANA, Compsci,,math,,music

@@ -1,0 +1,118 @@
+ID: 000016   Name: BABA ALI         Courses: [['COMPSCI', 80], ['MATH', 45], ['MUSIC', 49]]           Average: 58
+ID: 000025   Name: BANANA ANNA         Courses: [['COMPSCI', 60], ['MATH', 45], ['MUSIC', 89]]           Average: 64
+ID: 000010   Name: BUNNY BUGS         Courses: [['ART', 60], ['FRENCH', 45], ['MATH', 89]]           Average: 64
+ID: 000011   Name: DUCK DAFFY         Courses: [['ENGLISH', 60], ['MATH', 45], ['MUSIC', 89]]           Average: 64
+ID: 000002   Name: DUCK DONALD         Courses: [['ENGLISH', 90], ['MATH', 80], ['MUSIC', 78]]           Average: 82
+ID: 000018   Name: BUNNY EASTER         Courses: [['ART', 60], ['FRENCH', 45], ['MATH', 89]]           Average: 64
+ID: 000013   Name: LARRY HAIRY         Courses: [['ART', 80], ['FRENCH', 75], ['ENGLISH', 90]]           Average: 81
+ID: 000008   Name: HORNER JACK         Courses: [['ART', 45], ['FRENCH', 90], ['ENGLISH', 60]]           Average: 65
+ID: 000023   Name: CHAN JACKIE         Courses: [['ART', 80], ['HISTORY', 75], ['MUSIC', 90]]           Average: 81
+ID: 000009   Name: COLE KING         Courses: [['ART', 90], ['FRENCH', 45], ['ENGLISH', 90]]           Average: 75
+ID: 000004   Name: BOPEEP LIL         Courses: [['ART', 60], ['FRENCH', 45], ['ENGLISH', 89]]           Average: 64
+ID: 000005   Name: CONTRARY MARY         Courses: [['MUSIC', 78], ['COMPSCI', 90], ['MATH', 45]]           Average: 71
+ID: 000024   Name: MOUSE MINNIE         Courses: [['COMPSCI', 80], ['MATH', 75], ['MUSIC', 90]]           Average: 81
+ID: 000021   Name: GOOSE MOTHER         Courses: [['ART', 88], ['FRENCH', 45], ['ENGLISH', 90]]           Average: 74
+ID: 000001   Name: HOOD ROBIN         Courses: [['ART', 90], ['FRENCH', 47], ['MATH', 67]]           Average: 68
+ID: 000019   Name: CLAWS SANTA         Courses: [['ENGLISH', 80], ['MATH', 90], ['MUSIC', 75]]           Average: 81
+ID: 000006   Name: BEAUTY SLEEPING         Courses: [['ART', 60], ['HISTORY', 45], ['MUSIC', 89]]           Average: 64
+ID: 000012   Name: SAM SLIMEY         Courses: [['COMPSCI', 60], ['HISTORY', 45], ['FRENCH', 89]]           Average: 64
+ID: 000007   Name: WHITE SNOW         Courses: [['COMPSCI', 80], ['MATH', 75], ['MUSIC', 90]]           Average: 81
+ID: 000017   Name: WOMAN WONDER         Courses: [['COMPSCI', 95], ['MATH', 80], ['MUSIC', -1]]           Average: 87
+
+
+ART:
+BUNNY BUGS   Mark: 90
+BUNNY EASTER   Mark: 90
+LARRY HAIRY   Mark: 88
+HORNER JACK   Mark: 80
+CHAN JACKIE   Mark: 80
+COLE KING   Mark: 60
+BOPEEP LIL   Mark: 60
+GOOSE MOTHER   Mark: 60
+HOOD ROBIN   Mark: 60
+BEAUTY SLEEPING   Mark: 45
+Course Average: 71 
+
+COMPSCI:
+BABA ALI   Mark: 95
+BANANA ANNA   Mark: 90
+CONTRARY MARY   Mark: 80
+MOUSE MINNIE   Mark: 80
+SAM SLIMEY   Mark: 80
+WHITE SNOW   Mark: 60
+WOMAN WONDER   Mark: 60
+Course Average: 77 
+
+ENGLISH:
+DUCK DAFFY   Mark: 90
+DUCK DONALD   Mark: 90
+LARRY HAIRY   Mark: 90
+HORNER JACK   Mark: 90
+COLE KING   Mark: 89
+BOPEEP LIL   Mark: 80
+GOOSE MOTHER   Mark: 60
+CLAWS SANTA   Mark: 60
+Course Average: 81 
+
+FRENCH:
+BUNNY BUGS   Mark: 90
+BUNNY EASTER   Mark: 89
+LARRY HAIRY   Mark: 75
+HORNER JACK   Mark: 47
+COLE KING   Mark: 45
+BOPEEP LIL   Mark: 45
+GOOSE MOTHER   Mark: 45
+HOOD ROBIN   Mark: 45
+SAM SLIMEY   Mark: 45
+Course Average: 58 
+
+HISTORY:
+CHAN JACKIE   Mark: 75
+BEAUTY SLEEPING   Mark: 45
+SAM SLIMEY   Mark: 45
+Course Average: 55 
+
+MATH:
+BABA ALI   Mark: 90
+BANANA ANNA   Mark: 89
+BUNNY BUGS   Mark: 89
+DUCK DAFFY   Mark: 80
+DUCK DONALD   Mark: 80
+BUNNY EASTER   Mark: 75
+CONTRARY MARY   Mark: 75
+MOUSE MINNIE   Mark: 67
+HOOD ROBIN   Mark: 45
+CLAWS SANTA   Mark: 45
+WHITE SNOW   Mark: 45
+WOMAN WONDER   Mark: 45
+Course Average: 68 
+
+MUSIC:
+BABA ALI   Mark: 90
+BANANA ANNA   Mark: 90
+DUCK DAFFY   Mark: 90
+DUCK DONALD   Mark: 89
+CHAN JACKIE   Mark: 89
+CONTRARY MARY   Mark: 89
+MOUSE MINNIE   Mark: 78
+CLAWS SANTA   Mark: 78
+BEAUTY SLEEPING   Mark: 75
+WHITE SNOW   Mark: 49
+WOMAN WONDER   Mark: -1
+Course Average: 74 
+
+
+Students Failing 
+BABA ALI MATH 45 MUSIC 49 
+BANANA ANNA MATH 45 
+BUNNY BUGS FRENCH 45 
+DUCK DAFFY MATH 45 
+BUNNY EASTER FRENCH 45 
+HORNER JACK ART 45 
+COLE KING FRENCH 45 
+BOPEEP LIL FRENCH 45 
+CONTRARY MARY MATH 45 
+GOOSE MOTHER FRENCH 45 
+HOOD ROBIN FRENCH 47 
+BEAUTY SLEEPING HISTORY 45 
+SAM SLIMEY HISTORY 45 
